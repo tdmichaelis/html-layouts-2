@@ -1,0 +1,50 @@
+.firstrow {
+	height: 100px;
+	width: 100%;
+	display: flex;
+	margin-bottom: 5px;
+}
+.secondrow {
+	height: 400px;
+	display: flex;
+	margin-top: 5px
+}
+.thirdrow {
+	height: 100px;
+	display: flex;
+	margin-top: 5px;
+}
+.red {
+	background-color: red;
+}
+.blue {
+	background-color: blue;
+}
+.grey {
+	background-color: grey;
+}
+.box1 {
+	margin: 2px;
+	height: 100%;
+	flex: 1;
+}
+.box2 {
+	height: 100%;
+	flex: 1;
+}
+.box3 {
+ 	flex: 2;
+ 	height: 100%;
+}
+.box4 {
+	height: 100%;
+	flex: 12;
+}
+.box5 {
+	height: 100%;
+	flex: 1;
+}
+.box6 {
+	height: 100%;
+	flex:	4;
+}
